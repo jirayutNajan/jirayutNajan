@@ -18,4 +18,4 @@
 🎓 **Education**  
 - 1st Year student in **CEDT** at **Chulalongkorn University**
 
-Check out my little saas project https://quicknoteai.up.railway.app/
+Check out my little Saas project https://quicknoteai.up.railway.app/
