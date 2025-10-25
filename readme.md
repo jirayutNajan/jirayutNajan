@@ -16,6 +16,6 @@
 - https://github.com/jirayutNajan/Application.read.the.drug.label.for.the.elderly
 
 🎓 **Education**  
-- 1st Year student in **CEDT** at **Chulalongkorn University**
+- 2nd Year student in **CEDT** at **Chulalongkorn University**
 
 Check out my little Saas project https://quicknoteai.up.railway.app/
