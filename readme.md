@@ -2,6 +2,9 @@
 
 **Welcome to my GitHub profile**
 
+```
+ssh portfolio@jirayut.jobjab.online
+```
 
 🖥️ **Skill**
 
